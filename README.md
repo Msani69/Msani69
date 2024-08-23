@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Msani69
-- 👀 I’m interested in trading and building game
-- 🌱 I’m currently learning pythone
+- 👀 I’m interested in trading 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on telegrom bot
 - 📫 How to reach me m.sanikhani@gmail.com
 
